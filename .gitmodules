@@ -1,0 +1,3 @@
+[submodule "hmsv2api"]
+	path = hmsv2api
+	url = https://github.com/akolb1/hmsv2api.git
