@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Using gRPC with Java
 ---
 My notes on using gRPC with Java.
