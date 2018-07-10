@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Links
-permalink: /README/
+permalink: /links/
 ---
 
-# Public pages for Alex Kolbasov
+# Useful links
 
 ## Documentation links
 
