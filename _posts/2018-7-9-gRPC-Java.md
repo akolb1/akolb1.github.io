@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+tags: gRPC, maven, Java
 title: Using gRPC with Java
 ---
 My notes on using gRPC with Java.
