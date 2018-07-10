@@ -1,3 +1,9 @@
+---
+layout: page
+title: Links
+permalink: /README/
+---
+
 # Public pages for Alex Kolbasov
 
 ## Documentation links
