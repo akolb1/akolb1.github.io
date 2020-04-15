@@ -8,7 +8,7 @@ permalink: /links/
 
 ## Documentation links
 
-* [Aikido](aikido.md)
+* [Aikido](aikido.html)
 * [Hive Metastore Tools Public API](hclient/index.html)
 * [Hive Metastore V2 proposed API](hmsv2api)
 * [HMS cli written in Go langiage](https://github.com/akolb1/gometastore/blob/master/hmstool/doc/hmstool.md)
